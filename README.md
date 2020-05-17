@@ -1,10 +1,8 @@
 ## vectors-js
 
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)](https://github.com/wazabix-BM/vectors-js)
-
 [![Discord](https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png)](https://discord.gg/ES52WDg)
 
-[![MIT](https://i.ya-webdesign.com/images/2-svg-2.png)](https://github.com/wazabix-BM/vectors-js/blob/master/LICENSE.md)
+[![MIT](https://img.shields.io/badge/MIT-LICENSE-green)](https://github.com/wazabix-BM/vectors-js/blob/master/LICENSE.md)
 
 > A simple javascript library to work with vectors in a two-dimensional space
 
