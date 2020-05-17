@@ -77,7 +77,7 @@ new Vector ({
 
 /* * OUTPUT:
 {
-  name: 'c',
+  name: 'u',
   display: [Function (anonymous)],
   magnitude: 8,
   orientation: '76deg',
