@@ -260,4 +260,4 @@ new Vector ({
 }).catch (error => {
   console.log (error);
 });
-```"# vectors-js" 
+```
