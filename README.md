@@ -94,7 +94,7 @@ new Vector ({
 
 <a name= "dotproduct"></a>
 
-# dotproduct
+# dotProduct
 
 > In mathematics, and more precisely in algebra and vector geometry, the scalar product is an algebraic operation in addition to the laws applying to vectors. It is a bilinear, symmetric and positively defined form. With two vectors, it associates a scalar, i.e. a number such as those defining this vector space - real for a real vector space, and complex for a complex vector space.
 
