@@ -4,7 +4,7 @@
 
 # Install
 
-```sh
+```bat
 npm i vectors-js
 ```
 -------------------------------------------------------------------
@@ -51,6 +51,8 @@ console.log (vector);
 ```
 
 <a name= "vector">
+
+* <code>Vector</code>
 Constructor allowing the implementation of the various functionalities of this library
 
 ```js
