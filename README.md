@@ -199,6 +199,22 @@ The other methods are also included in the Promise returned by the builder. (Sam
 
 ----------------------------------------------------------------------------------------------------
 
+<a name= "name"></a>
+
+# name
+
+> Returns the name of the vector
+
+* Usage
+
+```js
+.then (vector => {
+  console.log (vector.name);
+});
+```
+
+-----------------------------------------------------------------------------------------------------
+
 <a name= "normalize"></a>
 
 # normalize
