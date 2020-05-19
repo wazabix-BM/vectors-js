@@ -1,7 +1,6 @@
 ## vectors-js
 
-[![Discord](https://img.shields.io/discord/519837781866840122?color=grey&label=%20&logo=Discord)](https://discord.gg/ES52WDg)
-[![MIT](https://img.shields.io/badge/MIT-LICENSE-green)](https://github.com/wazabix-BM/vectors-js/blob/master/LICENSE.md)
+[![Discord](https://img.shields.io/discord/519837781866840122?color=7289DA&label=WaZaBiX%27s%20guild&logo=Discord)](https://discord.gg/ES52WDg)
 
 > A simple javascript library to work with vectors in a two-dimensional space
 

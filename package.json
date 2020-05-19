@@ -26,13 +26,6 @@
   "author": "wazabix",
   "license": "MIT",
   
-  "homepage": "https://github.com/wazabix-BM/vectors-js",
-
-  "GIT": {
-    "_profile": "wazabix-BM",
-    "_package-name": "vectors-js",
-    "link-repositories": "https://github.com/wazabix-BM?tab=repositories",
-    "link-profile": "https://github.com/wazabix-BM",
-    "link-package": "https://github.com/wazabix-BM/vectors-js"
-  }
+  "homepage": "https://github.com/wazabix-BM/vectors-js#readme",
+  "repository": "https://github.com/wazabix-BM/vectors-js"
 }
