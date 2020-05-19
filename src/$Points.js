@@ -1,7 +1,7 @@
 /**
  * @constructor
- * @param p1 type object
- * @param p2 type object
+ * @param {object} p1
+ * @param {object} p2
  */
 
 function Points (p1, p2) {
@@ -28,7 +28,8 @@ function Points (p1, p2) {
 
   /**
    * @function
-   * @param object "this"
+   * @name createVector
+   * @param {object} "this"
    * @return vector coordinates
    */
   

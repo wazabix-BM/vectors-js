@@ -6,4 +6,5 @@ const Magnitude = (vector) => {
   return Math.round (norm);
 }
 
+
 module.exports = Magnitude;

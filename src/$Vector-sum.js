@@ -10,4 +10,5 @@ const VectorSum = (vector1, vector2) => {
     return coordinates;
 }
 
+
 module.exports = VectorSum;

@@ -11,4 +11,5 @@ const Orientation = (vector) => {
 }
 
 
+
 module.exports = Orientation;

@@ -16,6 +16,7 @@ const Normalize = require ('./src/$Normalize.js');
  * @return Promise
  */
 
+
 function Vector ({name, components}) {
   this.components = components;
   this.name = name;
