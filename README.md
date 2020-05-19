@@ -25,10 +25,10 @@ npm i vectors-js
 * <a href = "#name"><code>.name</code></a> **=>** *type* ***"object"*** *return => type* ***"string"***
 * <a href = "#displayvector"><code>.display ()</code></a> **=>** *type* ***"function"*** *return => type* ***"string"***
 * <a href = "#magnitude"><code>.magnitude</code></a> **=>** *type* ***"object"*** *return => type* ***"number"***
-* <a href = "#orientation"><code>.orientation</code></a> *=>* ***"object"*** *return => type* ***"string"***
-* <a href = "#normalize"><code>.normalize ()</code></a> *=>* ***"function"*** *return => type* ***"array"***
+* <a href = "#orientation"><code>.orientation</code></a> **=>** *type* ***"object"*** *return => type* ***"string"***
+* <a href = "#normalize"><code>.normalize ()</code></a> **=>** *type* ***"function"*** *return => type* ***"array"***
 * <a href = "#dotproduct"><code>.dotProduct ()</code></a> **=>** *type* ***"function"*** *return => type* ***"number"***
-* <a href = "#vectorsum"><code>.add ()</code></a> *=>* ***"function"*** *return => type* ***"array"***
+* <a href = "#vectorsum"><code>.add ()</code></a> **=>** *type* ***"function"*** *return => type* ***"array"***
 
 
 # Construtors - Usage
